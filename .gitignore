@@ -1,0 +1,54 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+/uploads
+
+# compiled output
+/dist
+/tmp
+/out-tsc
+/local_work
+stop_local.sh
+build.log
+
+# dependencies
+/node_modules
+
+# IDEs and editors
+/.idea
+.project
+.history
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# for intelliJ
+*.iml
+
+# IDE - VSCode
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+testem.log
+/typings
+
+# e2e
+/e2e/*.js
+/e2e/*.map
+
+# deep-links output
+deep-links/node_modules
+deep-links/package-lock.json
+
+# System Files
+.DS_Store
+Thumbs.db

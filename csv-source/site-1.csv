@@ -1,0 +1,5 @@
+Jason C 1/11/2021,,,,,,,,,,,,,,
+site_id,site_name,site_type,latitude,longitude,elevation,address_line_1,address_city,address_state,address_zip,effectiveDate,Flexible Tag 1,Flexible Tag 2,Flexible Tag 3,Flexible Tag 4
+site9001,Royal Site 91,PRV,46.080529,-118.322176,118,18 Prv St,Cary,NC,27519,2011-12-13T10:23:53+01:00,,,,
+site9002,Royal Site 92,TANK,46.056192,-118.32056,219,19 Prv Lane,Morrisville,NC,27560,2011-12-14,,,,
+site9003,Royal Site 93,FLUSHING,46.0377,-118.3207,320,20 Royal St,Apex,NC,27553,2011-12-15,,,,
